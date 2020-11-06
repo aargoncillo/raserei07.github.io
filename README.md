@@ -1,3 +1,3 @@
 # raserei07.github.io
 
-noob
+just a beginner css template
